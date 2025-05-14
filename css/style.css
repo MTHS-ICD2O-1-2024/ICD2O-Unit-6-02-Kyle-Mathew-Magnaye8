@@ -36,12 +36,13 @@ body {
 
 img {
   height: 400px;
-  padding-top: 110px;
-  margin-left: 139px;
+  padding-top: 11px;
+  margin-left: 50px;
 }
 
 #result-output {
   text-align: center;
+  margin-left: 30px;
   margin-top: 20px;
   margin-bottom: 20px;
   font-size: 1.5rem;
