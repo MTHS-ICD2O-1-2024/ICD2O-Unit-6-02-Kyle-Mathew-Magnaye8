@@ -4,6 +4,8 @@
 // Created on: May 2025
 // This file contains the JS functions for index.html
 
+"use strict"
+
 function updateCookieCount() {
   // Example functionality for updating the cookie count
   const resultOutput = document.getElementById("result-output");
